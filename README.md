@@ -119,7 +119,7 @@ Run `notebooks/visualize_and_export.ipynb` to generate:
   
   [Download interactive Folium map (HTML)](data/outputs/map18_1494_interactive.html) 
 
-### 4) (Optional) Extract blue contours
+### 4) Extract Blue Contours (Optional)
 
 ```bash
 python scripts/extract_blue_contours.py \
